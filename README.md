@@ -1,5 +1,5 @@
 # Whoplayer app
-#WIP
+# WIP
 ## Author: Wholock
 
 I am not satisfied with cloud music services and plex/jellyfin apps require phones to be connected to VPN, which is annoying to say the least

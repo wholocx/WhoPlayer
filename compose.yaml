@@ -1,0 +1,11 @@
+services:
+    backend:
+      image: whoplayer:test
+      volumes:
+          - type: bind
+            source: AppBackend/DownloadServer
+            target: /whoplayer/AppBackend/DownloadServer
+      ports:
+          - 8081:8081
+
+
